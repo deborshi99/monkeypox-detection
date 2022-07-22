@@ -56,8 +56,6 @@ def get_output():
                 "prediction": "other pox",
                 "time taken": time_taken
             })
-    print(classes[0])
-    print(result)
     return result
 
     
